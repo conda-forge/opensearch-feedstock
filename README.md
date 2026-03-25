@@ -150,5 +150,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@mo-dkrz](https://github.com/mo-dkrz/)
+* [@tropicrainforest](https://github.com/tropicrainforest/)
 
