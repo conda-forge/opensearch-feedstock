@@ -26,7 +26,7 @@ test:
     - opensearch-node --help
     - opensearch-plugin --help
     - opensearch-shard --help
-    - opensearch-upgrade --help
+    - opensearch-fips-demo-installer --help
     - opensearch --help
 
 about:
