@@ -1,5 +1,5 @@
 {% set name = "opensearch" %}
-{% set version = "3.6.0" %}
+{% set version = "3.7.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/opensearch-project/OpenSearch/archive/refs/tags/{{ version }}.tar.gz
-  sha256: 49dc7d3f7f9099d242ac4594d621a011f405a1af12c294dd87ec4fa3a9c460ac
+  sha256: 661b7e8f92036de48a44cadf72bec3925d9a899566b5726d3ed4cfd53b19502b
 
 build:
   number: 0
